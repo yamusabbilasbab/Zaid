@@ -1,0 +1,11 @@
+#container{
+    display: grid;
+    padding: 5px;
+    border: solid black;
+    border-radius: 20px;
+    grid-template-columns:200px 200px 200px 200px;
+}
+.itemsgrid{
+    background-color: aqua;
+    margin: 5px;
+}

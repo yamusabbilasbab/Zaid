@@ -1,0 +1,27 @@
+:root {
+    --teal: #031634;
+    --cobalt: #033649;
+    --turquoise: #066464;
+    --beige:#ceb286;
+    --gold: #EADDCC;
+}
+body{
+    background-color: var(--teal);
+    color: white
+}
+#My name {
+display: inline;
+color:var(--beige);
+font-size:30px;
+}
+#Expereience List{
+    border:10px solid var(--beige)
+    padding :20px;
+    margin:20px;
+    width: 180px;
+    box-sizing:border box;
+}
+.experience-items{
+    list-style-type:circle;
+    /*list typle images can also be used*/
+}

@@ -1,0 +1,38 @@
+body{
+    background-image:"https://plus.unsplash.com/premium_photo-1661963219843-f1a50a6cfcd3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+
+.navbarddc{
+    background-color: aquamarine;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdivddc{
+    display: flex;*
+    align-items: center;
+    justify-content:space-between;
+}
+.Logo a{
+    font-size:40px;
+    font-weight: 700;
+    color:blue;
+    }
+    li{
+        list-style: none;
+        display: inline-block;
+    }
+    li a{
+        color:blueviolet;
+        font-size: 25px;
+        font-weight: bold;
+        margin-right: 25px;
+    }
+    #form{
+        background-image:
+        display: flex;
+        justify-content: center;
+        flex-direction:row;
+        flex-wrap: wrap;
+
+    }
+    

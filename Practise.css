@@ -1,0 +1,20 @@
+#heading{
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+    text-align: center;
+    
+}
+.navbar{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 30px;
+    
+    
+}
+.navbar a{
+    margin: 20px;
+    text-decoration:underline;
+}

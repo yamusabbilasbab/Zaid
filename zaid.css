@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(255, 208, 0, 0.747);
+
+}
+header{
+    height: 20px;
+    text-align: center;
+    color:purple;
+    font-size: larger;
+    font-weight: 400;
+    
+      
+}
+nav{
+    background-color: aqua;
+    display: flex;
+    justify-content:space-evenly;
+    border: solid blanchedalmond;
+    height: 30px;
+    font-weight: 300;    
+}
+#container{
+display: grid;
+grid-template-columns: 600px 600px 600px;
+
+}  
+.experience{
+    border: solid greenyellow;
+} 
+.Summary{
+    border: solid red;
+
+}
+#Professional {
+    background-color:skyblue;
+    margin: 10px;
+    padding: 10px;
+    height: 12px;
+    border: solid purple;
+    text-align: center;
+}                          
+
