@@ -1,0 +1,15 @@
+#header{
+    padding-right: 15px;
+    padding-left: 15px;
+    }
+#nav1{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.logo{
+    font-size:40px;
+    font-weight: 700;
+    color:blue;
+}
